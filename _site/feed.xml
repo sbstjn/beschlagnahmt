@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-05T06:47:46+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">beschlagnahmt.org</title><subtitle>IT-Sicherheit für Aktivisti</subtitle><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><entry><title type="html">Resümee</title><link href="http://localhost:4000/resuemee/" rel="alternate" type="text/html" title="Resümee" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/230-resuemee</id><content type="html" xml:base="http://localhost:4000/resuemee/">&lt;h1 id=&quot;resümee&quot;&gt;Resümee&lt;/h1&gt;
+&lt;p&gt;Das wars. Hoffentlich konnte dir diese Seite helfen. Beachte aber das hier bei weitem nicht alles abgedeckt wurde, es handelt sich eher um einen Rundumschlag um auf einen halbwegs ordentlichen Sicherheitsstandard zu kommen. 
+Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, &lt;a href=&quot;https://github.com/beschlagnahmt-org/beschlagnahmt/issues&quot;&gt;lass es uns wissen&lt;/a&gt;. 
+Gerne kannst du direkt &lt;a href=&quot;https://github.com/beschlagnahmt-org/beschlagnahmt/pulls&quot;&gt;auf Github einen Verbesserungsvorschlag einreichen&lt;/a&gt;.
+Sollte dir das zu öffentlich sein, melde dich gerne unter der im &lt;a href=&quot;/impressum&quot;&gt;Impressum&lt;/a&gt; angegeben Mail-Adresse.&lt;/p&gt;
+
+&lt;p&gt;Falls du noch mehr zum Thema lesen willst empfehlen sich unter anderem die Kolumne „Get Connected“ der &lt;a href=&quot;https://datenschmutz.de/gc/&quot;&gt;Datenschutzgruppe der RH Heidelberg&lt;/a&gt; und die Texte der Gruppe &lt;a href=&quot;https://capulcu.blackblogs.org/&quot;&gt;Capulcu&lt;/a&gt;. 
+Außerdem kannst du auf &lt;a href=&quot;https://privacy-handbuch.de&quot;&gt;privacy-handbuch.de&lt;/a&gt; noch eine Menge detaillierterer Informationen zu Anonymisierung, Verschlüsselung und Schutz vor Tracking nachlesen.
+Viele weitere Anleitungen zum Thema in verschiedenen Sprachen findest du außerdem beim Projekt &lt;a href=&quot;https://ssd.eff.org/&quot;&gt;Surveillance Self-Defense&lt;/a&gt; der EFF.&lt;/p&gt;
+
+&lt;p&gt;Vielen Dank an alle die bei der Erstellung des Hefts und der Seite mitgeholfen haben und an alle die Ergänzungen einsenden und kommentieren. Solidarische Grüße an alle emanzipatorischen Gruppen und Einzelpersonen im Netz und in der analogen Welt.&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Resümee Das wars. Hoffentlich konnte dir diese Seite helfen. Beachte aber das hier bei weitem nicht alles abgedeckt wurde, es handelt sich eher um einen Rundumschlag um auf einen halbwegs ordentlichen Sicherheitsstandard zu kommen. Wenn du einen Fehler gefunden oder einen Verbessungsvorschlag hast, lass es uns wissen. Gerne kannst du direkt auf Github einen Verbesserungsvorschlag einreichen. Sollte dir das zu öffentlich sein, melde dich gerne unter der im Impressum angegeben Mail-Adresse.</summary></entry><entry><title type="html">Nach der Beschlagnahme</title><link href="http://localhost:4000/nach-der-beschlagnahme/" rel="alternate" type="text/html" title="Nach der Beschlagnahme" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/030-nach-der-beschlagnahme</id><content type="html" xml:base="http://localhost:4000/nach-der-beschlagnahme/">&lt;h1 id=&quot;nach-der-beschlagnahme&quot;&gt;Nach der Beschlagnahme&lt;/h1&gt;
+&lt;p&gt;Jetzt werden die Cops oder ein:e Sachverständige:r sich daran machen deine Daten auszulesen und “gerichtssicher” zu machen. Wenn du deinen Kram anständig verschlüsselt hast werden sie dabei nicht weit kommen.
+Andernfalls werden die Daten akribisch durchsucht. Den dabei verwendeten Forensikprogrammen entgeht kaum etwas und selbst gelöschte Daten können wiederhergestellt werden.&lt;/p&gt;
+
+&lt;p&gt;Auch gesperrte Handys können mit der Spezialsoftware und -hardware ausgelesen werden. Die Funde werden mit einer Prüfsumme versehen und katalogisiert, so dass sie vor Gericht als Beweis verwendet werden können.&lt;/p&gt;
+
+&lt;p&gt;Wird das Verfahren irgendwann eingestellt bekommst du deine beschlagnahmten Sachen zurück. Das kann aber dauern und es soll auch schon vorgekommen sein, dass Festplatten die nicht entschlüsselt werden konnten bei der Rückgabe auf einmal leer waren.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/beschlagnahme.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Nach der Beschlagnahme Jetzt werden die Cops oder ein:e Sachverständige:r sich daran machen deine Daten auszulesen und “gerichtssicher” zu machen. Wenn du deinen Kram anständig verschlüsselt hast werden sie dabei nicht weit kommen. Andernfalls werden die Daten akribisch durchsucht. Den dabei verwendeten Forensikprogrammen entgeht kaum etwas und selbst gelöschte Daten können wiederhergestellt werden.</summary></entry><entry><title type="html">Kommunikationsüberwachung</title><link href="http://localhost:4000/kommunikationsueberwachung/" rel="alternate" type="text/html" title="Kommunikationsüberwachung" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/050-kommunikationsueberwachung</id><content type="html" xml:base="http://localhost:4000/kommunikationsueberwachung/">&lt;h1 id=&quot;kommunikationsüberwachung&quot;&gt;Kommunikationsüberwachung&lt;/h1&gt;
+&lt;p&gt;Bei der Telekommunikationsüberwachung, oder kurz TKÜ hören die Behörden Kommunikation direkt beim Dienstbetreiber ab. Das kann zum Beispiel euer Handyanbieter sein, euer Internet-Provider oder euer E-Mail Service. Es können viele Daten auch im Nachhinein angefordert werden, zum Beispiel die Websites die du aufgerufen hast, die Nummern die du angerufen hast, die E-Mails die du geschrieben hast und die Privatnachrichten die du auf Facebook verschickt hast. (Vorrausgesetzt der Anbieter hat diese Daten noch gespeichert.)
+Auch hier kannst du dich wieder durch verschiedene Verschlüsselungsverfahren schützen.&lt;/p&gt;
+
+&lt;p&gt;Um das Thema Vorratsdatenspeicherung wird aktuell noch gestritten. Momentan ist diese ausgesetzt, wie sich das in Zukunft entwickeln wird ist aber noch unklar. Halte dich am besten gelegentlich etwas auf dem Laufenden.&lt;/p&gt;
+
+&lt;p&gt;Neben solchen Anfragen bei Dritten gibt es auch noch den sogenannten “Großen Lauschangriff” also das direkte Abhören der Wohnung mit Mikrofonen. Dieser wird aber recht selten angewandt. Anzunehmen sind vielleicht 10-15 Fälle pro Jahr. Beachte das eine Hausdurchsuchung für die Cops eine gute Gelegenheit ist Wanzen zu deponieren.&lt;/p&gt;
+
+&lt;p&gt;Wer ebenfalls gelegentlich mithört sind die Sprachassistenten von Google, Apple und Amazon. Diese Geräte nehmen kontinuierlich ihre Umgebung auf. (Sonst könnten sie ja auch gar nicht auf ein “Hey Google” reagieren.) Aufzeichnungen von Sprachbefehlen werden auf den Servern der Anbieter gespeichert und können theoretisch auch von den Behörden angefragt werden.&lt;/p&gt;
+
+&lt;p&gt;Mensch sollte es sich auf jeden Fall zweimal überlegen welche Gespräche in der Gegenwart von Alexa oder einem Handy mit aktivierter Google-Sprachsteuerung geführt werden sollten.&lt;/p&gt;
+
+&lt;h2 id=&quot;statistik&quot;&gt;Statistik&lt;/h2&gt;
+&lt;p&gt;Wie oft werden eigentlich Überwachungsmaßnahmen angeordnet? Beispielhaft schauen wir uns hier mal die Statistiken von 2015 und 2017 an, welche von netzpolitik.org aufbereitet wurden.
+Im Jahr 2015 gab es 3332 Festnetz-Überwachungen, 21906 Mobilfunküberwachungen und 7431 Internetüberwachungen. Verkehrsdatenüberwachungen, also das Sammeln von Metadaten über die Kommunikation wurde in ganzen 26265 Fällen angeordnet und die Anordnung in weiteren 899 Fällen verlängert.
+Im Jahr 2017 sind diese Zahlen leicht abgesunken, aber im Vergleich noch immer ausgesprochen hoch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/kommunikationsueberwachung.jpg&quot; alt=&quot;&quot; /&gt;
+Bild: Creative Commons BY-NC-SA 4.0. Netzpolitik.org&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Vorratsdatenspeicherung&quot;&gt;Wikipedia - Vorratsdatenspeicherung&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netzpolitik.org/2016/statistik-polizei-ueberwacht-weiterhin-vor-allem-wegen-drogen/&quot;&gt;Polizei überwacht vor allem wegen Drogen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netzpolitik.org/2019/ueberraschung-polizei-ueberwacht-erstmals-weniger-kommunikation/&quot;&gt;Polizei überwacht erstmals weniger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Kommunikationsüberwachung Bei der Telekommunikationsüberwachung, oder kurz TKÜ hören die Behörden Kommunikation direkt beim Dienstbetreiber ab. Das kann zum Beispiel euer Handyanbieter sein, euer Internet-Provider oder euer E-Mail Service. Es können viele Daten auch im Nachhinein angefordert werden, zum Beispiel die Websites die du aufgerufen hast, die Nummern die du angerufen hast, die E-Mails die du geschrieben hast und die Privatnachrichten die du auf Facebook verschickt hast. (Vorrausgesetzt der Anbieter hat diese Daten noch gespeichert.) Auch hier kannst du dich wieder durch verschiedene Verschlüsselungsverfahren schützen.</summary></entry><entry><title type="html">Online-Durchsuchung und Quellen-TKÜ</title><link href="http://localhost:4000/staatstrojaner/" rel="alternate" type="text/html" title="Online-Durchsuchung und Quellen-TKÜ" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/055-staatstrojaner</id><content type="html" xml:base="http://localhost:4000/staatstrojaner/">&lt;h1 class=&quot;no_toc&quot; id=&quot;online-durchsuchung-und-quellen-tkü&quot;&gt;Online Durchsuchung und Quellen TKÜ&lt;/h1&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;
+    Inhalt
+  &lt;/summary&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#online-durchsuchung&quot; id=&quot;markdown-toc-online-durchsuchung&quot;&gt;Online-Durchsuchung&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quellen-tkü&quot; id=&quot;markdown-toc-quellen-tkü&quot;&gt;Quellen-TKÜ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#gegenmaßnahmen&quot; id=&quot;markdown-toc-gegenmaßnahmen&quot;&gt;Gegenmaßnahmen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;h2 id=&quot;online-durchsuchung&quot;&gt;Online-Durchsuchung&lt;/h2&gt;
+
+&lt;p&gt;Eine ‘Online-Durchsuchung’ lässt sich mit einer heimlichen Hausdurchsuchung vergleichen. Die Behörden versuchen dabei einen Trojaner auf dem Zielsystem zu installieren und so alle gespeicherten Daten (Fotos, Adressbuch, Kalender, Chats, …) abzugreifen. So hat zum Beispiel die Firma DigiTask, der Hersteller des “Staatstrojaners”, Funktionen in die Software eingebaut die die Behörden überhaupt nicht nutzen dürften. Auch die Software FinFisher der deutschen Firma Gamma Group wurde zeitweise ohne Rechtsgrundlage vom LKA Berlin lizenziert.&lt;/p&gt;
+
+&lt;h2 id=&quot;quellen-tkü&quot;&gt;Quellen-TKÜ&lt;/h2&gt;
+
+&lt;p&gt;Die harmlos klingende Bezeichnung ‘Quellen-TKÜ’ ist in der Praxis nichts anderes als eine ‘Online-Durchsuchung light’. Auch hier wird eine Schadsoftware auf euer(e) System(e) aufgebracht, mit dem Unterschied, dass nur ‘laufende Kommuniaktion’ abgeört werden soll. Durch die starke Zunahme von Messengern mit Ende-zu-Ende-Verschlüsselung ist die Quellen-TKÜ ein immer beliebteres Mittel der Behörden. Es ist jedoch relativ aufwändig und teuer, so dass es nicht annähernd so oft eingesetzt wird wie das ‘klassische’ Abhören von Telefonaten und SMS.&lt;/p&gt;
+
+&lt;h2 id=&quot;gegenmaßnahmen&quot;&gt;Gegenmaßnahmen&lt;/h2&gt;
+
+&lt;p&gt;Um dir gar nicht erst so einen Staatstrojaner ein zu fangen ist es wichtig, dass du darauf achtest das deine Systeme sauber bleiben. Hinweise dazu findest du im Kapitel “&lt;a href=&quot;/systemsicherheit/&quot;&gt;Systemsicherheit&lt;/a&gt;“. Gegen eine dauerhafte Infektion schützt dich auch die Verwendung des im Kapitel “&lt;a href=&quot;/anonym-im-netz/&quot;&gt;Anonym im Netz&lt;/a&gt;” beschriebenen Betriebssystems ‘Tails’.&lt;/p&gt;
+
+&lt;p&gt;Nette Geschichte am Rande: Die Firmen Gamma und Hacking Team wurden beide von einem Frosch namens Phineas Phisher gehackt und interne Daten über ihre Geschäfte ins Netz gestellt.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/8REBKuFGfk8&quot;&gt;Überwachung durch Staatstrojaner&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.ccc.de/de/updates/2011/staatstrojaner&quot;&gt;Chaos Computer Club analysiert Staatstrojaner&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/phineas.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Online Durchsuchung und Quellen TKÜ</summary></entry><entry><title type="html">Dateien löschen</title><link href="http://localhost:4000/dateien-loeschen/" rel="alternate" type="text/html" title="Dateien löschen" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/060-dateien-loeschen</id><content type="html" xml:base="http://localhost:4000/dateien-loeschen/">&lt;h1 id=&quot;dateien-löschen&quot;&gt;Dateien löschen&lt;/h1&gt;
+&lt;p&gt;Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen.
+Wie kann das angehen?
+Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Nullen auf der Festplatte nicht automatisch. Sie werden nur zum Überschreiben freigegeben falls der Platz für was anderes gebraucht wird. Du kannst die Datei also nicht mehr sehen, aber sie lässt sich mit etwas Arbeit noch rekonstruieren. (Auch wenn du den Papierkorb bereits “geleert” hast.)
+Die Lösung ist zum Glück ganz einfach. Wenn du die Daten sofort beim Löschen überschreibst kommt da keine:r mehr dran. Es gibt auch Programme die das für dich machen.&lt;/p&gt;
+
+&lt;h2 id=&quot;löschen-mit-eraser-win&quot;&gt;Löschen mit Eraser (Win):&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Eraser installieren (Standardinstallation)&lt;/li&gt;
+  &lt;li&gt;Rechtsklick auf die Datei&lt;/li&gt;
+  &lt;li&gt;“Eraser” und Unterpunkt “Erase” auswählen&lt;/li&gt;
+  &lt;li&gt;Nochmal mit Klick auf “Yes” bestätigen&lt;/li&gt;
+  &lt;li&gt;Warten bis die Datei verschwunden ist&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/loeschen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wenn dir das bei großen Dateien zu lange dauert kannst du in den Eraser-Einstellungen als Löschmethode auch “Pseudorandom Data (1 Pass)” auswählen.&lt;/p&gt;
+
+&lt;p&gt;Wenn du mit der Kommandozeile zurecht kommst kannst du auch „SDelete“ von Microsoft verwenden. Das ist wahrscheinlich sogar etwas gründlicher.&lt;/p&gt;
+
+&lt;h2 id=&quot;löschen-mit-sdelete-win&quot;&gt;Löschen mit SDelete (Win):&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;SDelete installieren&lt;/li&gt;
+  &lt;li&gt;In der CMD zum Speicherort navigieren&lt;/li&gt;
+  &lt;li&gt;„sdelete DATEINAME“&lt;/li&gt;
+  &lt;li&gt;Warten bis Datei verschwunden ist&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;löschen-mit-shred-linux&quot;&gt;Löschen mit shred (Linux):&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;wipe installieren (Paketverwaltung)&lt;/li&gt;
+  &lt;li&gt;Im Terminal zum Speicherort navigieren&lt;/li&gt;
+  &lt;li&gt;“wipe -f DATEINAME” eingeben&lt;/li&gt;
+  &lt;li&gt;Warten bis die Datei verschwunden ist&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Eine weitere Option für die du kein laufendes Betriebssystem brauchst ist DBAN.
+Diese Techniken sind nur für klassische Festplatten geeignet. Für SSDs, SD-Karten, USB-Sticks und den internen Speicher von Handys funktioniert das leider nicht so gut. Das Überschreiben schadet dem Gerät und es können trotzdem noch Daten zurückbleiben. Wenn du so einen Speicher hast kannst du dich auf den Seiten des Hersteller erkundigen ob es für das Gerät sichere Löschfunktionen gibt. Fast alle Hersteller stellen dafür Software zur Verfügung.
+Ein weiteres Risiko ist das sogenannte Journaling. Das ist eine nützliche Technik um zu verhindern das Daten verloren gehen, die fast überall eingesetzt wird. Allerdings führt sie dazu das Forensiker:innen eventuell Metadaten wie Dateinamen oder sogar Dateiinhalte aus dem Journal wiederherstellen können, selbst wenn die eigentlichen Daten überschrieben wurden.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;⚠ Fallstrick beim Löschen ⚠ &lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Manche Systeme speichern zu Bilddateien kleine
+Vorschaubilder ab. Diese bleiben auch nach dem
+Löschen der Originaldatei erhalten.&lt;/p&gt;
+
+  &lt;p&gt;Windows: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;%userprofile%\AppData\Local\Microsoft\Windows\Explorer&lt;/code&gt;
+Linux: ~/.cache/thumbnails/&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Du bist mit allen Datenträgerarten auf der sicheren Seite wenn du deine Datenträger von vornherein verschlüsselst. Denn dann würde zum Wiederherstellen von Daten immer noch das Passwort benötigt werden.
+Oder du arbeitest einfach gleich ohne eine Festplatte.
+Dazu gibt es Live-Systeme wie Tails. Du kannst dann alle Festplatten aus deinem Gerät ausbauen und das Betriebssystem von einem USB-Stick starten. Nach dem herunterfahren sind alle Daten verschwunden. Mehr dazu findest du bei „Whonix” und “Tails“ im Kapitel &lt;a href=&quot;/anonym-im-netz/&quot;&gt;Anonym im Netz&lt;/a&gt;.
+Als letzte Option bleibt immer den Datenträger physisch zu zerstören. Sei dabei ruhig gründlich und trage eine Staubschutzmaske um keinen Glas- oder Metallstaub einzuatmen, das ist wirklich sehr ungesund.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eraser.heidi.ie/&quot;&gt;Eraser&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lambda-diode.com/software/wipe/&quot;&gt;wipe&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete&quot;&gt;SDelete&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dban.org&quot;&gt;DBAN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Dateien löschen Wie wir vorhin Erfahren haben können die Cops und Sachverständige also gelöschte Daten wiederherstellen. Wie kann das angehen? Wenn du eine Datei auf deinem Computer löschst verschwinden die Einsen und Nullen auf der Festplatte nicht automatisch. Sie werden nur zum Überschreiben freigegeben falls der Platz für was anderes gebraucht wird. Du kannst die Datei also nicht mehr sehen, aber sie lässt sich mit etwas Arbeit noch rekonstruieren. (Auch wenn du den Papierkorb bereits “geleert” hast.) Die Lösung ist zum Glück ganz einfach. Wenn du die Daten sofort beim Löschen überschreibst kommt da keine:r mehr dran. Es gibt auch Programme die das für dich machen.</summary></entry><entry><title type="html">Dateien verschlüsseln</title><link href="http://localhost:4000/dateien-verschluesseln/" rel="alternate" type="text/html" title="Dateien verschlüsseln" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/070-dateien-verschluesseln</id><content type="html" xml:base="http://localhost:4000/dateien-verschluesseln/">&lt;h1 class=&quot;no_toc&quot; id=&quot;dateien-verschlüsseln&quot;&gt;Dateien verschlüsseln&lt;/h1&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;
+    Inhalt
+  &lt;/summary&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#grundsätzliches&quot; id=&quot;markdown-toc-grundsätzliches&quot;&gt;Grundsätzliches&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#computer&quot; id=&quot;markdown-toc-computer&quot;&gt;Computer&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#systemverschlüsselung-mit-veracrypt-win&quot; id=&quot;markdown-toc-systemverschlüsselung-mit-veracrypt-win&quot;&gt;Systemverschlüsselung mit VeraCrypt (Win)&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#windows-upgrade-eines-verschlüsselten-systems&quot; id=&quot;markdown-toc-windows-upgrade-eines-verschlüsselten-systems&quot;&gt;Windows Upgrade eines verschlüsselten Systems&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#container-mit-veracrypt-win-linux&quot; id=&quot;markdown-toc-container-mit-veracrypt-win-linux&quot;&gt;Container mit VeraCrypt (Win, Linux)&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#container-mit-veracrypt-öffnen&quot; id=&quot;markdown-toc-container-mit-veracrypt-öffnen&quot;&gt;Container mit VeraCrypt öffnen&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#systemverschlüsselung-bei-der-installation-ubuntu&quot; id=&quot;markdown-toc-systemverschlüsselung-bei-der-installation-ubuntu&quot;&gt;Systemverschlüsselung bei der Installation (Ubuntu)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#smartphone&quot; id=&quot;markdown-toc-smartphone&quot;&gt;Smartphone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#kommunikation&quot; id=&quot;markdown-toc-kommunikation&quot;&gt;Kommunikation&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#asymmetrische-verschlüsselung&quot; id=&quot;markdown-toc-asymmetrische-verschlüsselung&quot;&gt;Asymmetrische Verschlüsselung&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;So schützt du also die Daten die du eh nicht mehr haben willst. Aber was ist mit denen die du noch brauchst?
+Diese solltest du verschlüsseln. Wenn du das richtig machst haben die Behörden kaum eine Chance an die Daten heranzukommen.&lt;/p&gt;
+
+&lt;h2 id=&quot;grundsätzliches&quot;&gt;Grundsätzliches&lt;/h2&gt;
+
+&lt;p&gt;Ein Versteck ersetzt keine Verschlüsselung. Irgendwo tief in einem Ordner abgelegte Dateien werden die Be hörden mit hoher Sicherheit finden. Gleiches gilt für in der Wohnung versteckte Datenträger. Effektiv schützen kannst du dich nur indem du deine Daten verschlüsselst.
+Wenn sie Datenträger mitnehmen ist das egal, da sie dich nicht zwingen können das Passwort herauszugeben.
+In den gleich folgenden Anleitungen wirst du dir an einigen Stellen ein Passwort ausdenken müssen. Bitte beachte hierfür auch den Abschnitt “Passwort”. Ein gutes Passwort ist für die Sicherheit deiner Daten essentiell.
+Wenn du Backups von deinen Daten anlegst denk daran auch diese zu verschlüsseln. Bevor du versuchst deine Geräte zu verschlüsseln lege auch eine Sicherung an, falls mal was schiefgeht.
+Und noch was: Am sichersten sind die Daten die du gar nicht erst speicherst. Halte dich besonders bei heiklen Informationen an das Konzept der Datensparsamkeit.
+Wenn du unbedingt Papiere aufbewahren musst tue dies in einem Umschlag der mit “Für meinen Anwalt” o.Ä. beschriftet ist.&lt;/p&gt;
+
+&lt;h2 id=&quot;computer&quot;&gt;Computer&lt;/h2&gt;
+
+&lt;p&gt;Für deinen Computer hast du zwei grundlegende Optionen. Du kannst das gesamte System verschlüsseln, oder einen verschlüsselten Container anlegen in dem du du vertrauliche Dateien ablegst.&lt;/p&gt;
+
+&lt;h3 id=&quot;systemverschlüsselung-mit-veracrypt-win&quot;&gt;Systemverschlüsselung mit VeraCrypt (Win)&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;VeraCrypt installieren und starten&lt;/li&gt;
+  &lt;li&gt;“Create Volume” klicken&lt;/li&gt;
+  &lt;li&gt;“Encrypt the system partition” anwählen und “Next”
+klicken&lt;/li&gt;
+  &lt;li&gt;“Normal” anwählen, “Next”&lt;/li&gt;
+  &lt;li&gt;“Encrypt the whole drive”&lt;/li&gt;
+  &lt;li&gt;Single- oder Multiboot auswählen. Wenn du nicht weißt worum es geht wähl einfach ersteres&lt;/li&gt;
+  &lt;li&gt;Algorithmen auswählen (AES und SHA-256 sind in Ordnung)&lt;/li&gt;
+  &lt;li&gt;Passwort eingeben (siehe dazu Kapitel „Passwort“)&lt;/li&gt;
+  &lt;li&gt;Die Maus möglichst zufällig durch das Fenster bewegen bis der grüne Balken voll ist, dann “Next”&lt;/li&gt;
+  &lt;li&gt;“Next”&lt;/li&gt;
+  &lt;li&gt;Entsprechend der Anweisungen eine Rescue Disk erstellen. Wenn du kein CD-Laufwerk hast kannst du auch einen USB-Stick verwenden. Mit der CD bzw. dem USB-Stick kannst du das System nicht wiederherstellen wenn du dein Passwort vergessen hast. Sie dienen nur dazu das System zu retten falls Dateien beschädigt wurden die VeraCrypt zum entschlüsseln benötigt. Du solltest den Datenträger also gut aufbewahren, wenn die Cops ihn kriegen sind deine Daten aber trotzdem noch sicher.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/veracrypt-verschluesseln.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;VeraCrypt benötigt Zufallsdaten zum verschlüsseln.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;“1-Pass” Wipemode auswählen (Das kennen wir schon vom Löschen)&lt;/li&gt;
+  &lt;li&gt;“Test” klicken. Der Rechner wird nun neustarten und du kannst dich das erste mal mit deinem Passwort anmelden. Wenn ein “PIM” verlangt wird drücke einfach Enter. Wenn alles funktioniert hat kann es weitergehen.&lt;/li&gt;
+  &lt;li&gt;VeraCrypt sollte sich automatisch gestartet haben. Auf den Button “Encrypt” klicken&lt;/li&gt;
+  &lt;li&gt;Notfallanweisungen lesen, ggf. drucken und mit “Ok” bestätigen&lt;/li&gt;
+  &lt;li&gt;Abwarten bis alles verschlüsselt ist. Bei größeren Windows-Updates wird es Probleme geben wenn die Festplatte komplett verschlüsselt ist. Das Update schlägt dann fehl und muss zurückgerollt werden. Wenn du Pech hast kann dadurch sogar deine verschlüsselte Partition beschädigt werden oder der Rechner kann nicht mehr starten. Seit Version 1.23 von VeraCrypt gibt es eine Technik mit der du trotzdem ein solches Update durchführen kannst. Versuche auf keinen Fall größere Updates ohne diese Maßnahmen einzuspielen.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;windows-upgrade-eines-verschlüsselten-systems&quot;&gt;Windows Upgrade eines verschlüsselten Systems&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Erstelle ein Installationsmedium mit dem Media Creation Tool von Microsoft&lt;/li&gt;
+  &lt;li&gt;Öffne eine Kommandozeile (Einfach im Startmenü “cmd” eingeben und mit Rechtsklick als Administrator:in ausführen)&lt;/li&gt;
+  &lt;li&gt;Navigiere in das Verzeichnis mit der setup.exe das du in Schritt 1 erstellt hast&lt;/li&gt;
+  &lt;li&gt;Führe den Befehl &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.\setup.exe /ReflectDrivers “C:\Program Files\VeraCrypt” /PostOOBE C:\ProgramData\VeraCrypt\SetupComplete.cmd&lt;/code&gt; aus. (Alles in einer Zeile)&lt;/li&gt;
+  &lt;li&gt;Folge den Anweisungen auf dem Bildschirm&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sollte dir das wirklich viel viel zu kompliziert sein kannst du auch schauen ob deine Windows Version “Bitlocker” mit dabei hat. Das ist das Verschlüsselungs-Programm von Microsoft. Es ist einfacher zu bedienen, allerdings ist es sehr wahrscheinlich das dort Hintertüren eingebaut wurden. Allgemein kann VeraCrypt da deutlich mehr Vertrauen entgegen gebracht werden, aber bevor du stattdessen gar keine Verschlüsselung benutzt verwende lieber Bitlocker.
+Das war die Systemverschlüsselung. Alternativ kannst du auch einen Container erstellen und deine Daten darin ablegen anstatt das ganze System zu verschlüsseln.
+Dann musst du natürlich darauf achten keinerlei kritische Daten außerhalb des Containers zu belassen, was nicht immer ganz einfach ist.&lt;/p&gt;
+
+&lt;h3 id=&quot;container-mit-veracrypt-win-linux&quot;&gt;Container mit VeraCrypt (Win, Linux)&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;VeraCrypt installieren und starten&lt;/li&gt;
+  &lt;li&gt;“Create Volume” klicken&lt;/li&gt;
+  &lt;li&gt;“Create an encrypted file container” anwählen und “Next” klicken&lt;/li&gt;
+  &lt;li&gt;“Standard VeraCrypt volume”&lt;/li&gt;
+  &lt;li&gt;Einen Speicherort und Dateinamen für deinen Container auswählen, den Haken bei “Never save history” belassen&lt;/li&gt;
+  &lt;li&gt;Algorithmen auswählen (AES und SHA-256 sind in Ordnung)&lt;/li&gt;
+  &lt;li&gt;Größe des Containers festlegen&lt;/li&gt;
+  &lt;li&gt;Passwort eingeben (siehe dazu Kapitel „Passwort“)&lt;/li&gt;
+  &lt;li&gt;Ein Dateisystem auswählen (FAT ist in Ordnung) und die Maus möglichst zufällig durch das Fenster bewegen bis der grüne Balken voll ist, dann “Format”&lt;/li&gt;
+  &lt;li&gt;Abwarten bis die Erstellung abgeschlossen ist und mit “Exit” das Programm verlassen&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;container-mit-veracrypt-öffnen&quot;&gt;Container mit VeraCrypt öffnen&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;VeraCrypt starten&lt;/li&gt;
+  &lt;li&gt;Freien Laufwerksbuchstaben auswählen&lt;/li&gt;
+  &lt;li&gt;“Select File” und die Containerdatei auswählen&lt;/li&gt;
+  &lt;li&gt;“Mount”&lt;/li&gt;
+  &lt;li&gt;Passwort eingeben und “Ok” klicken&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Wie erwähnt bringen viele Linux-Betriebssysteme bereits Verschlüsselungsmechanismen mit. Zwischen den Verschiedenen Linux-Distributionen gibt es einige Unterschiede. Meistens ist es am einfachsten die Verschlüsselung direkt bei der Installation zu aktivieren. Beispielhaft stehen hier die Schritte für Ubuntu, unter “Mehr zum Thema” findest du aber auch Anleitungen für andere Distributionen und Möglichkeiten auch ohne Neuinstallation ein verschlüsseltes System zu bekommen.&lt;/p&gt;
+
+&lt;h3 id=&quot;systemverschlüsselung-bei-der-installation-ubuntu&quot;&gt;Systemverschlüsselung bei der Installation (Ubuntu)&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Installationsprozess starten&lt;/li&gt;
+  &lt;li&gt;Im Fenster “Art der Installation” einen Haken bei “Encrypt the new Ubuntu installation for security” setzen und weiter zum nächsten Schritt&lt;/li&gt;
+  &lt;li&gt;Passwort eingeben (siehe dazu Kapitel „Passwort“)&lt;/li&gt;
+  &lt;li&gt;Haken bei “Overwrite empty disk space” setzen&lt;/li&gt;
+  &lt;li&gt;Mit “Install Now” die eigentliche Installation starten Bedenke das diese Verfahren umgangen werden können indem in deine Wohnung eingedrungen wird und ein Keylogger installiert wird. Das ist ein kleines Gerät am USB Anschluss oder eine Software welche die Tastatureingaben mitschneidet. Statte also dein UEFI und ggf. deinen Bootloader mit einem Passwort aus und prüfe immer mal wieder den Anschluss deiner Tastatur auf Unregelmäßigkeiten.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.veracrypt.fr/&quot;&gt;VeraCrypt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.veracrypt.fr/en/System%20Encryption.html&quot;&gt;Anleitung VeraCrypt-Systemverschlüsselung&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/th-wilde/veracrypt-w10-patcher&quot;&gt;Windows Upgrade bei Systemverschlüsselung&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svenfila.wordpress.com/2010/11/04/encrypt-root-partition-without-re-installing-linux/&quot;&gt;Anleitung Linux Verschlüsseln&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wikihow.com/Set-a-BIOS-Password&quot;&gt;Anleitung BIOS Passwort&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;smartphone&quot;&gt;Smartphone&lt;/h2&gt;
+
+&lt;p&gt;Die meisten Smartphones kommen heutzutage ‘ab Werk’ mit verschlüsseltem Speicher. Ob die Speicherverschlüsslung wirklich akiv ist, solltest du zur Sicherheit trotzdem einmal überprüfen. Das geht auf jedem Gerät ein wenig anders. Meist wirst du in den Einstellungen unter ‘Sicherheit’ fündig, den genauen Weg für dein Gerät recherchierst du am besten selber. Sollte die Verschlüsselung nicht aktiviert sein, solltest Du das sofort nachholen. Du lädst deinen Smartphone auf und wählst die Option zum Verschlüsseln, gibst zweimal deine gewünschtes Passwort/PIN ein. Wie Du ein möglichsts sicheres wählst, kannst du im Kapitel &lt;a href=&quot;/passwort/&quot;&gt;Passwörter&lt;/a&gt; nachlesen. Nun wartest bis der Prozess abgeschlossen ist. Teilweise muss nochmal explizit angewählt werden das auch die externe Speicherkarte verschlüsselt werden soll. Grundsätzlich ist das alles auch genau so sicher wie auf dem Computer, aber besonders ältere Geräte, die nicht mehr mit Updates versorgt werden stellen ein zusätzliches Risiko dar.
+Trotz Verschlüsselung ist es also vernünftig zu Aktionen nur ein billiges Zweit-Handy mitzunehmen, auf dem keine persönlichen Daten gespeichert sind. Auch eine SIM-Karte, die nicht mit deinem Namen verknüpft ist, ist dabei eine gute Idee.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/smartphone_verschluesselt.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kommunikation&quot;&gt;Kommunikation&lt;/h2&gt;
+
+&lt;p&gt;Wenn du eine Nachricht über das Internet versendest wird sie viele Stellen durchlaufen bis sie am Ziel angekommen ist. Vielen davon musst du ohne Verschlüsselung einfach vertrauen das sie deine Daten schützen und sich im Zweifel auch gegen Behördenanfragen zur Wehr setzen. Das machen aber leider viele nicht. Zum Beispiel ist bekannt das 1&amp;amp;1 zu denen auch GMX und Web.de gehören ohne große Rückfragen gespeicherte Daten weitergeben. Aber auch bei kleineren Anbietern solltest du dich nicht darauf verlassen dass die Betreiber:innen für dich in den Knast gehen werden wenn sie eine Anfrage bekommen. Die Lösung ist auch hier wieder Verschlüsselung.&lt;/p&gt;
+
+&lt;h3 id=&quot;asymmetrische-verschlüsselung&quot;&gt;Asymmetrische Verschlüsselung&lt;/h3&gt;
+
+&lt;p&gt;Was wir gerade für die Verschlüsselung unserer Geräte verwendet haben war eine traditionelle symmetrische Verschlüsselung. Das bedeutet das die Person an die Daten kommt die das Passwort hat. Für Kommunikation ist das etwas unpraktisch, da so das Passwort zwischen allen Kommunikationsteilnehmer:innen auf einem sicheren Kanal ausgetauscht werden muss bevor kommuniziert werden kann. Das ist umständlich und bringt das Risiko mit sich, dass das Passwort beim Austausch abgefangen wird. Dieses Problem wird mit asymmetrischer Verschlüsselung gelöst. Bei dieser haben unsere Kommunikationsteilnehmer:innen Alice und Bob je einen öffentlichen und einen privaten Schlüssel. Der öffentliche Schlüssel wird nur zum verschlüsseln verwendet, der private Schlüssel wird nur zum entschlüsseln verwendet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alice und Bob?&lt;/p&gt;
+
+  &lt;p&gt;Alice und Bob sind die “Anna und Arthur” der Kryptografie, In unserem Beispiel wollen die beiden miteinander kommunizieren ohne dass Mallory mitlesen kann.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ein privater und ein öffentlicher Schlüssel bilden ein Schlüsselpaar. Eine Nachricht die mit Bobs öffentlichem Schlüssel verschlüsselt wurde kann nur mit seinem privatem Schlüssel entschlüssselt werden. Selbst Alice die die Nachricht verschlüsselt hat kann die Verschlüsselung nicht rückgängig machen, denn nur Bob kennt den privaten Schlüssel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/encryption_decryption.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dieses Verfahren wird fast überall verwendet wo ohne einen sicheren Kanal zum Passwortaustausch kommuniziert werden muss. Es ist auf den ersten Blick etwas kompliziert, funktioniert aber gut.&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Dateien verschlüsseln</summary></entry><entry><title type="html">Mail-Verschlüsselung</title><link href="http://localhost:4000/mail-verschluesselung/" rel="alternate" type="text/html" title="Mail-Verschlüsselung" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/090-email</id><content type="html" xml:base="http://localhost:4000/mail-verschluesselung/">&lt;h1 class=&quot;no_toc&quot; id=&quot;mail-verschlüsselung&quot;&gt;Mail-Verschlüsselung&lt;/h1&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;
+    Inhalt
+  &lt;/summary&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#verschlüsselte-kommunikation-mit-gpg4win-und-kleopatra-win&quot; id=&quot;markdown-toc-verschlüsselte-kommunikation-mit-gpg4win-und-kleopatra-win&quot;&gt;Verschlüsselte Kommunikation mit GPG4Win und Kleopatra (Win)&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#installieren-und-eigene-schlüssel-erstellen&quot; id=&quot;markdown-toc-installieren-und-eigene-schlüssel-erstellen&quot;&gt;Installieren und eigene Schlüssel erstellen&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eigenen-öffentlichen-schlüssel-rausfinden&quot; id=&quot;markdown-toc-eigenen-öffentlichen-schlüssel-rausfinden&quot;&gt;Eigenen öffentlichen Schlüssel rausfinden&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eine-nachricht-verschlüsseln&quot; id=&quot;markdown-toc-eine-nachricht-verschlüsseln&quot;&gt;Eine Nachricht verschlüsseln&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eine-nachricht-entschlüsseln&quot; id=&quot;markdown-toc-eine-nachricht-entschlüsseln&quot;&gt;Eine Nachricht entschlüsseln&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#verschlüsselte-kommunikation-mit-thunderbird-win--linux&quot; id=&quot;markdown-toc-verschlüsselte-kommunikation-mit-thunderbird-win--linux&quot;&gt;Verschlüsselte Kommunikation mit Thunderbird (Win &amp;amp; Linux)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#verschlüsselte-kommunikation-mit-gpg-linux&quot; id=&quot;markdown-toc-verschlüsselte-kommunikation-mit-gpg-linux&quot;&gt;Verschlüsselte Kommunikation mit GPG (Linux)&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#eigene-schlüssel-erstellen&quot; id=&quot;markdown-toc-eigene-schlüssel-erstellen&quot;&gt;Eigene Schlüssel erstellen&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eigenen-öffentlichen-schlüssel-rausfinden-1&quot; id=&quot;markdown-toc-eigenen-öffentlichen-schlüssel-rausfinden-1&quot;&gt;Eigenen öffentlichen Schlüssel rausfinden&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eine-nachricht-verschlüsseln-1&quot; id=&quot;markdown-toc-eine-nachricht-verschlüsseln-1&quot;&gt;Eine Nachricht verschlüsseln&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eine-nachricht-entschlüsseln-1&quot; id=&quot;markdown-toc-eine-nachricht-entschlüsseln-1&quot;&gt;Eine Nachricht entschlüsseln&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#android&quot; id=&quot;markdown-toc-android&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pgp-fingerprints&quot; id=&quot;markdown-toc-pgp-fingerprints&quot;&gt;PGP-Fingerprints&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;h2 id=&quot;verschlüsselte-kommunikation-mit-gpg4win-und-kleopatra-win&quot;&gt;Verschlüsselte Kommunikation mit GPG4Win und Kleopatra (Win)&lt;/h2&gt;
+
+&lt;h3 id=&quot;installieren-und-eigene-schlüssel-erstellen&quot;&gt;Installieren und eigene Schlüssel erstellen&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;GPG4Win installieren (bei der Komponentenauswahl “Kleopatra” ausgewählt lassen)&lt;/li&gt;
+  &lt;li&gt;“New Key Pair” klicken&lt;/li&gt;
+  &lt;li&gt;Optional Name und Mail vergeben&lt;/li&gt;
+  &lt;li&gt;“Create“ klicken&lt;/li&gt;
+  &lt;li&gt;Passwort vergeben (siehe dazu Kapitel „Passwort“)&lt;/li&gt;
+  &lt;li&gt;Während der Erstellung die Maus zufällig über den Bildschirm bewegen (das benötigt der Algorithmus als Zufallswert, wir kennen das schon von VeraCrypt)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eigenen-öffentlichen-schlüssel-rausfinden&quot;&gt;Eigenen öffentlichen Schlüssel rausfinden&lt;/h3&gt;
+&lt;p&gt;Diesen kannst du anderen Leuten geben damit sie dir verschlüsselte Mails schreiben können&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;In Hauptfenster den neu erzeugten Eintrag klicken&lt;/li&gt;
+  &lt;li&gt;“Export” klicken&lt;/li&gt;
+  &lt;li&gt;Gesamten Inhalt des Fensters kopieren&lt;/li&gt;
+  &lt;li&gt;In einem Texteditor alle Zeilen die mit “Comment” beginnen entfernen, die Leerzeilen ebenso&lt;/li&gt;
+  &lt;li&gt;Der restliche Text ist dein öffentlicher Schlüssel&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eine-nachricht-verschlüsseln&quot;&gt;Eine Nachricht verschlüsseln&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Öffentlichen Schlüssel der Person der du schreiben willst in die Zwischenablage kopieren&lt;/li&gt;
+  &lt;li&gt;In Kleopatra auf “Extras” - “Clipboard” - “Import Certificate” klicken&lt;/li&gt;
+  &lt;li&gt;Auf “No” klicken&lt;/li&gt;
+  &lt;li&gt;Auf “Notepad” wechseln und die Nachricht eingeben&lt;/li&gt;
+  &lt;li&gt;Im Anschluss auf den anderen Tab wechseln&lt;/li&gt;
+  &lt;li&gt;Alle 3 Häkchen sollen aktiviert sein, die oberen sollen deinen eigenen Schlüssel enthalten, im unteren gibst du den&lt;em&gt;die Empfänger&lt;/em&gt;in ein. 
+(Deren Schlüssel haben wir vorhin importiert, der ist nun auf der Hauptseite zu finden)&lt;/li&gt;
+  &lt;li&gt;“Sign/Encrypt Notepad” klicken&lt;/li&gt;
+  &lt;li&gt;Passwort eingeben&lt;/li&gt;
+  &lt;li&gt;Im Tab “Notepad” sollte jetzt etwas stehen was mit “BEGIN PGP MESSAGE” anfängt und mit “END PGP MESSAGE” aufhört&lt;/li&gt;
+  &lt;li&gt;Kopiere den gesamten Inhalt des Textfeldes und pack den in die E-Mail die du versenden willst. Die andere Person wird ihn entschlüsseln können&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eine-nachricht-entschlüsseln&quot;&gt;Eine Nachricht entschlüsseln&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Empfangene Nachricht in die Zwischenablage kopieren&lt;/li&gt;
+  &lt;li&gt;“Notepad” auswählen&lt;/li&gt;
+  &lt;li&gt;Nachricht einfügen&lt;/li&gt;
+  &lt;li&gt;“Decrypt Notepad” klicken&lt;/li&gt;
+  &lt;li&gt;Wenn die Nachricht mit deinem öffentlichen Schlüssel erstellt wurde kannst du sie nun lesen&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;⚠ Fallstrick beim Verschlüsseln von E-Mails ⚠&lt;br /&gt;
+Empfänger&lt;em&gt;in und Betreff einer E-Mail werden nicht verschlüsselt werden. Wähle also einen neutralen Betreff der keinen Rückschluss auf den Inhalt der Nachricht zulässt. Gegebenfalls sollten auch die E-Mail-Adressen der Kommunikationsteilnehmer&lt;/em&gt;innen neutral sein, also frei von Hinweisen auf die reale Person.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ja. das ist schon etwas umständlich. Wenn du PGP öfters nutzen willst kannst du auch ein Plugin in deinem E-Mail Programm installieren. Im Folgenden ist das mal für Thunderbird erklärt, sowas gibt es aber für die meisten E-Mail Programme. Beachte aber auch dass es etwas sicherer ist das stattdessen von Hand zu machen.&lt;/p&gt;
+
+&lt;h2 id=&quot;verschlüsselte-kommunikation-mit-thunderbird-win--linux&quot;&gt;Verschlüsselte Kommunikation mit Thunderbird (Win &amp;amp; Linux)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Thunderbird nutzt ab der Version 78 einen eigenen Schlüsselbund, eventuell müssen Schlüssel aus PGP exportiert und in Thunderbird importiert werden, falls du vorher Enigmail genutzt hast&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Thunderbird installieren und mit deinem E-Mail-Konto verbinden&lt;/li&gt;
+  &lt;li&gt;In den Konteneinstellungen unter “Ende-zu-Ende-Verschlüsselung” einen Schlüssel hinzufügen&lt;/li&gt;
+  &lt;li&gt;Den Schlüssel in den Einstellungen auswählen&lt;/li&gt;
+  &lt;li&gt;Schlüssel können über das Menü “Konten-Einstellungen -&amp;gt; Ende-zu-Ende-Verschlüsselung -&amp;gt; OpenPGP” importiert und exportiert werden.&lt;/li&gt;
+  &lt;li&gt;Achte auch darauf, dass du die Schlüsselakzeptanz mindestens auf “Ja, aber ich habe nicht überprüft ob es sich im den korrekten Schlüssel handelt.” gesetzt ist&lt;/li&gt;
+  &lt;li&gt;An dich gerichtete verschlüsselte Nachrichten werden beim Empfang automatisch entschlüsselt&lt;/li&gt;
+  &lt;li&gt;E-Mails die du schreibst sollten automatisch verschlüsselt werden, sofern du den entsprechenden öffentlichen Schlüssel importiert hast und dieser akzeptiert ist. Achte auf das Schloss-Symbol unten rechts.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;verschlüsselte-kommunikation-mit-gpg-linux&quot;&gt;Verschlüsselte Kommunikation mit GPG (Linux)&lt;/h2&gt;
+
+&lt;h3 id=&quot;eigene-schlüssel-erstellen&quot;&gt;Eigene Schlüssel erstellen&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;gpg installieren (Paketverwaltung)&lt;/li&gt;
+  &lt;li&gt;Im Terminal “gpg –gen-key” ausführen&lt;/li&gt;
+  &lt;li&gt;Einen beliebigen Namen eingeben&lt;/li&gt;
+  &lt;li&gt;Optional E-Mail eingeben&lt;/li&gt;
+  &lt;li&gt;Mit “O” bestätigen&lt;/li&gt;
+  &lt;li&gt;Optional Passphrase eingeben&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eigenen-öffentlichen-schlüssel-rausfinden-1&quot;&gt;Eigenen öffentlichen Schlüssel rausfinden&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;“gpg –armor –export NAME” im Terminal ausführen (Mit dem Namen der im vorherigen Schritt eingegeben wurde)&lt;/li&gt;
+  &lt;li&gt;Schlüssel kopieren&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eine-nachricht-verschlüsseln-1&quot;&gt;Eine Nachricht verschlüsseln&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Öffentlichen Schlüssel der Person der du schreiben willst in einer Textdatei speichern&lt;/li&gt;
+  &lt;li&gt;“gpg –import DATEINAME“ ausführen&lt;/li&gt;
+  &lt;li&gt;Deine Nachricht in einer Textdatei speichern&lt;/li&gt;
+  &lt;li&gt;“gpg -e –armor -r ADRESSE DATEINAME” dabei ist Adresse der Name oder die E-Mail Adresse die zu dem Schlüssel gehört den du gerade gespeichert hast&lt;/li&gt;
+  &lt;li&gt;Im gleichen Verzeichnis sollte nun eine Datei mit der Endung .asc liegen, die enthält deine verschlüsselte Nachricht.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;eine-nachricht-entschlüsseln-1&quot;&gt;Eine Nachricht entschlüsseln&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Verschlüsselte Nachricht in einer Datei speichern&lt;/li&gt;
+  &lt;li&gt;“gpg –decrypt DATEINAME” ausführen&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;android&quot;&gt;Android&lt;/h2&gt;
+&lt;p&gt;Für E-Mail Verschlüsselung unter Android kann an dieser Stelle die Kombination aus K9-Mail und OpenKeychain wärmstens empfohlen werden.
+K9-Mail unterstützt die Kopplung mit OpenKeychain, zu finden in den Accounteinstellungen unter dem Punkt “Ende-zu-Ende-Verschlüsselung”. Nun kann in den Mails die Verschlüsselung durch das Schloss am oberen rechten Bildschirmrand eingeschaltet werden, sollten die jeweiligen Schlüssel hinterlegt sein.
+Dafür ist nichts weiter notwendig, als diese in der Openkeychain-App mittels Dateiimport, QR-Code oder Onlineschlüsselsuche hinzuzufügen. Zum Entschlüsseln darf der eigene Privatekey an dieser Stelle natürlich nicht fehlen.&lt;/p&gt;
+
+&lt;h2 id=&quot;pgp-fingerprints&quot;&gt;PGP-Fingerprints&lt;/h2&gt;
+
+&lt;p&gt;Während du Schlüssel erstellst oder importierst werden dir immer wieder die „Fingerprints“ der Schlüssel angezeigt. Was ist das eigentlich? Der Name „Fingerprint“ ist schon ziemlich sprechend. Jeder Schlüssel hat einen Fingerprint der nur zu diesem Schlüssel gehört. Wenn du einen Schlüssel aus dem Internet bekommst, zum Beispiel weil die Person ihn dir per klartext E-Mail geschickt hat, dann kannst du dir nicht sicher sein ob das auch wirklich der richtige Schlüssel ist. Vielleicht hat auch eine Behörde die Leitung abgehört und den echten Schlüssel durch einen Schlüssel ersetzt mit dem sie das Gespräch mitlesen kann. Deswegen gibt es diesen kurzen Fingerprint.
+Du und die andere Person können über einen sicheren Kanal die Fingerprints vergleichen und so feststellen ob beide den richtigen Schlüssel haben, die Kommunikation also sicher ist. Das kann zum Beispiel bei einem Treffen in der echten Welt passieren, oder der Fingerprint kann in einer Zeitung abgedruckt worden sein. Wenn du den Fingerprint einfach nur per Mail bekommen hast oder auf der Website der anderen Person gefunden hast dann bringt das natürlich nichts. Dort könnte wieder jemand „auf der Leitung sitzen“ und den Fingerprint durch eine Fälschung austauschen.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gpg4win.org/&quot;&gt;GPG4Win&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thunderbird.net/de/&quot;&gt;Thunderbird&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enigmail.net/&quot;&gt;Enigmail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://k9mail.app/&quot;&gt;K9-Mail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openkeychain.org/&quot;&gt;OpenKeychain&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Mail-Verschlüsselung</summary></entry><entry><title type="html">Messenger</title><link href="http://localhost:4000/messenger/" rel="alternate" type="text/html" title="Messenger" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/110-messenger</id><content type="html" xml:base="http://localhost:4000/messenger/">&lt;h1 class=&quot;no_toc&quot; id=&quot;messenger&quot;&gt;Messenger&lt;/h1&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;
+    Inhalt
+  &lt;/summary&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#bezugsquellen&quot; id=&quot;markdown-toc-bezugsquellen&quot;&gt;Bezugsquellen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#keine-anonymität&quot; id=&quot;markdown-toc-keine-anonymität&quot;&gt;Keine Anonymität&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nachrichten-auf-dem-sperrbildschirm&quot; id=&quot;markdown-toc-nachrichten-auf-dem-sperrbildschirm&quot;&gt;Nachrichten auf dem Sperrbildschirm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#apps-und-protokolle&quot; id=&quot;markdown-toc-apps-und-protokolle&quot;&gt;Apps und Protokolle&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#signal&quot; id=&quot;markdown-toc-signal&quot;&gt;Signal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#threema&quot; id=&quot;markdown-toc-threema&quot;&gt;Threema&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#whatsapp&quot; id=&quot;markdown-toc-whatsapp&quot;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#telegram&quot; id=&quot;markdown-toc-telegram&quot;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sms&quot; id=&quot;markdown-toc-sms&quot;&gt;SMS&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#jabberxmpp&quot; id=&quot;markdown-toc-jabberxmpp&quot;&gt;Jabber/XMPP&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#matrix&quot; id=&quot;markdown-toc-matrix&quot;&gt;Matrix&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;Wesentlich einfacher bedienbar als PGP/GPG sind Messenger. Einige davon haben mittlerweile eine Ende-Zu-Ende Verschlüsselung, doch auch hier gibt es Unterschiede.&lt;/p&gt;
+
+&lt;h2 id=&quot;bezugsquellen&quot;&gt;Bezugsquellen&lt;/h2&gt;
+&lt;p&gt;Die sicherste &lt;strong&gt;Bezugsquelle&lt;/strong&gt; ist der vorinstallierte App-Store deines Gerätes. Mehr dazu findest Du beim Thema Systemsicherheit.&lt;/p&gt;
+
+&lt;h2 id=&quot;keine-anonymität&quot;&gt;Keine Anonymität&lt;/h2&gt;
+
+&lt;p&gt;Beachte das Verschlüsselung dich &lt;strong&gt;nicht automatisch anonym&lt;/strong&gt; macht. Keine der hier vergestellten Apps hat das Ziel anonyme Kommunikation möglich zu machen. In der Praxis ist es zwar recht aufwendig, aber nicht unmöglich, mittels Überwachung eurer Anschlusse fest zu stellen wer mit wem kommuniziert. Deshalb wichtig: Ende-Zu-Ende Verschlüsselung schützt ‘nur’ den Inhalt eurer Kommunikation, nicht wer mit wem kommuniziert.&lt;/p&gt;
+
+&lt;h2 id=&quot;nachrichten-auf-dem-sperrbildschirm&quot;&gt;Nachrichten auf dem Sperrbildschirm&lt;/h2&gt;
+
+&lt;p&gt;Die beste Verschlüsselung bringt wenig, wenn jeder einfach die ankommenden Nachrichten auf Deinem Sperrbildschirm lesen kann. Stelle Dein Smartphone deshalb so ein, dass die sogenannte ‘Vorschau’ nicht den Nachrichten-Text anzeigt.&lt;/p&gt;
+
+&lt;h2 id=&quot;apps-und-protokolle&quot;&gt;Apps und Protokolle&lt;/h2&gt;
+
+&lt;h3 id=&quot;signal&quot;&gt;Signal&lt;/h3&gt;
+
+&lt;p&gt;Wenn du mit deinem Handy verschlüsselt kommunizieren willst ist &lt;a href=&quot;https://www.signal.org&quot;&gt;Signal&lt;/a&gt; der einfachste und sicherste Weg das zu erreichen. Alle Nachrichten, Anrufe und Video-Chats sind bei Signal Ende-Zu-Ende-verschlüsselt.
+Der Messenger wird von einer gemeinnützigen Organisation entwickelt und der &lt;a href=&quot;https://github.com/signalapp&quot;&gt;Quelltext der Apps&lt;/a&gt; ist öffentlich zugänglich.
+Um deine Kontakte zur erreichen benötigst Du aktuell aber noch deren Telefonnummer.&lt;/p&gt;
+
+&lt;p&gt;Menschen mit erhöhtem Schutzbedürfnis sollten von den zusätzlichen Möglichkeiten der App gebrauch machen:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Überprüfe bei Deinen Kontakten die Sicherheitsnummer. Die Cops &lt;a href=&quot;https://www.vice.com/de/article/435gbd/telegram-ueberwachung-bka-chat-app-verschluesslung&quot;&gt;registrieren regelmäßig vorhandene Accounts auf Ihren Geräten&lt;/a&gt; und greifen dann die Nachrichten statt des eigentlichen Kontakts ab oder lesen in Gruppen mit. Prüfe die Sicherheitsnummer auch und besonders wenn sich diese bei einem Kontakt ändert. Wenn nicht persönlich über den QR-Code, dann lest Euch die Nummer z. B. übers Telefon vor. Eine ausführliche Anleitung gibt es auf &lt;a href=&quot;https://support.signal.org/hc/de/articles/360007060632-Was-ist-eine-Sicherheitsnummer-und-weshalb-sehe-ich-dass-sie-sich-ge%C3%A4ndert-hat-&quot;&gt;support.signal.org&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Aktiviere die ‘&lt;a href=&quot;https://support.signal.org/hc/de/articles/360007059792-Signal-PINs&quot;&gt;Registrierungssperre&lt;/a&gt;’. Diese Funktion schützt dich vor der eben erwähnten Übernahme deines Accounts z.B. durch die Behörden.&lt;/li&gt;
+  &lt;li&gt;Lange &lt;a href=&quot;https://support.signal.org/hc/de/articles/360007059792-Signal-PINs&quot;&gt;Signal-PIN&lt;/a&gt; wählen. Signal speichert einige deiner Daten (z.B. Profil, Gruppen und Kontakte) &lt;a href=&quot;https://signal.org/blog/secure-value-recovery/&quot;&gt;verschlüsselt auf Ihren Servern&lt;/a&gt;. Für ‘Oma Erna’ bietet eine 4-stellig PIN ausreichend Schutz. Für Aktivisti ist jedoch eine lange Passphrase sinnvoll. Falls Du auf Deinem Gerät einen Passwortmanager benutzt, dann verwende diesen für die Erzeugung und Speicherung eurer Signal-PIN.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.signal.org/hc/de/articles/360007320771-Verschwindende-Nachrichten-festlegen-und-verwalten&quot;&gt;Verschwindende Nachrichten&lt;/a&gt; nutzen. In der App kannst du auch einstellen, dass Nachrichten nach einiger Zeit, zum Beispiel nach einem Tag, automatisch gelöscht werden. So kann selbst im Falle einer Sicherstellung wenig gefunden werden. Stelle den Zeitraum möglichst kurz ein.&lt;/li&gt;
+  &lt;li&gt;Besonders sensible Medien (Fotos und Videos) kannst Du auch so verschicken, dass diese nur &lt;a href=&quot;https://support.signal.org/hc/de/articles/360038443071-Einmalig-anzeigbare-Medien&quot;&gt;einmal angesehen werden können&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Aktivere den ‘&lt;a href=&quot;https://support.signal.org/hc/de/articles/360043469312-Bildschirmschutz&quot;&gt;Bildschirmschutz&lt;/a&gt;’ innerhalb von Signal um Dich vor anderen Apps zu schützen, die den Bildschirminhalt versuchen mit zu lesen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Signal gibt es auch für &lt;a href=&quot;https://signal.org/android/apk/&quot;&gt;Android-Smartphones ohne Play Store&lt;/a&gt; und für &lt;a href=&quot;https://signal.org/de/download/&quot;&gt;deinen PC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;threema&quot;&gt;Threema&lt;/h3&gt;
+
+&lt;p&gt;Threema hat besonders im deutschsprachigen Raum eine recht hohe Verbreitung. Auch hier ist all eure Kommunikation Ende-zu-Ende verschlüsselt. Der Quelltext von Threema ist jedoch leider nicht öffentlich, somit muss dem Anbieter vertraut werden. Außerdem steht hinter dem Messenger eine Firma die von euch zur Nutzung einen einmaligen Betrag verlangt.&lt;/p&gt;
+
+&lt;p&gt;Aktuell größter Vorteil von Threema gegenüber der anderen gängigen Messengern ist die Tatsache, dass ihr nicht die Telefonnummer eures Kontaktes benötigt, es genüg die &lt;a href=&quot;https://threema.ch/de/faq/threema_id&quot;&gt;Threema-ID&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;whatsapp&quot;&gt;WhatsApp&lt;/h3&gt;
+
+&lt;p&gt;WhatsApp nutzt &lt;a href=&quot;https://signal.org/blog/whatsapp-complete/&quot;&gt;seit ein paar Jahren&lt;/a&gt; die Ende-zu-Ende-Verschlüsselung von Signal. Trotzdem ist WhatsApp bei weitem nicht so sicher und vertrauenswürdig wie z.B. Signal. Deine Kommunikation ist zwar Ende-zu-Ende-verschlüsselt, aber Backups werden unverschlüsselt bei Apple bzw. Google gespeichert, wo sie abgeriffen werden können. Zusätzlich wird euer komplettes Adressbuch im Klartext hochgeladen und von Facebook ausgewertet. Dein Profil, deine Gruppenmitgliedschaften und mehr werden außerdem im Klartext von WhatsApp gespeichert.&lt;/p&gt;
+
+&lt;p&gt;Falls ihr nicht auf WhatsApp verzichten könnt, deaktiviert die Backups (und ratet das Euch Eueren Kontakten). Sätzlich solltet ihr (wie bei Signal) die Sicherheitsnummern Eurer Kontakte überprüfen und die &lt;a href=&quot;https://faq.whatsapp.com/general/security-and-privacy/security-code-change-notification/?lang=de&quot;&gt;Benachrichtigung über eine Änderung der Nummer&lt;/a&gt; aktivieren. Aktiviert außerdem &lt;a href=&quot;https://faq.whatsapp.com/general/security-and-privacy/account-security-tips/?lang=de&quot;&gt;2FA in den Einstellungen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;telegram&quot;&gt;Telegram&lt;/h3&gt;
+
+&lt;p&gt;Telegram ist entgegen seines Rufes &lt;a href=&quot;https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415&quot;&gt;nicht zu empfehlen&lt;/a&gt;. Die Chats nicht Ende-zu-Ende verschlüsselt, außer Du aktivierst es aktiv. Schlimmer noch, Telegram speichert die Nachrichten bei sich auf dem Server. Für Gruppen gibt es gar keine Verschlüsselung. Warum ein Anbieter für ‘sichere’ Kommunikation NutzerInnen so einem Risiko aussetzt ist nicht ganz klar. Daher sollte Telegram &lt;strong&gt;nicht&lt;/strong&gt; genutzt werden.&lt;/p&gt;
+
+&lt;h3 id=&quot;sms&quot;&gt;SMS&lt;/h3&gt;
+
+&lt;p&gt;SMS Nachrichten solltest du, genau wie Telegram, nicht für deine Kommunikation nutzen. SMS haben keine Verschlüsselung und sind leicht ab zu hören.&lt;/p&gt;
+
+&lt;h3 id=&quot;jabberxmpp&quot;&gt;Jabber/XMPP&lt;/h3&gt;
+
+&lt;p&gt;Eine weitere Alternative ist das Protokoll &lt;a href=&quot;https://xmpp.org/software/clients.html&quot;&gt;Jabber/XMPP&lt;/a&gt; welches viele verteile Server, statt eines Zentralen nutzt. Also im Prinzip so wie bei E-Mail. Leider gibt es verschiedene Apps mit unterschiedlichem Funktionsumfang, die wiederum unterschiedliche Arten der Verschlüsselung unterstützen. In der Praxis eine gute Methode für Anfänger um sich selbst ins Knie zu schießen. Zusätzlich funktioniert das alles auf Smartphones nicht reibungslos, besonders auf iPhones nicht. Falls Du doch einen Blick riskieren willst, dann nimm &lt;a href=&quot;https://conversations.im/&quot;&gt;Conversations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;matrix&quot;&gt;Matrix&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://matrix.org/&quot;&gt;Matrix&lt;/a&gt; ist ein weiteres Protokoll, dass ebenfalls über viele verteilte Server, statt einem zentralen funktioniert. Genauso wie bei Jabber/XMPP
+gibt es verschiedene Clients und die Möglichkeit für End-to-End Encryption. Wenn man auf stabil funktionierende Crypto Wert legt sollte man sich momentan noch für
+&lt;a href=&quot;https://element.io/&quot;&gt;Element&lt;/a&gt; entscheiden, da sich bei den meisten anderen Clients End-to-End Encryption noch in einem experimentellen Zustand befindet.&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Messenger</summary></entry><entry><title type="html">Telefonie</title><link href="http://localhost:4000/telefonie/" rel="alternate" type="text/html" title="Telefonie" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/120-telefonie</id><content type="html" xml:base="http://localhost:4000/telefonie/">&lt;h1 id=&quot;telefonie&quot;&gt;Telefonie&lt;/h1&gt;
+&lt;p&gt;Genau wie SMS verfügen Festnetz- und Handy-Gespräche nicht über &lt;a href=&quot;https://de.wikipedia.org/wiki/Ende-zu-Ende-Verschl%C3%BCsselung&quot;&gt;Ende-zu-Ende-Verschlüsselung&lt;/a&gt;, die vor mithören der Gespräche schützt. Es mag für eine Privatperson nicht ohne weiteres möglich sein ein Mobiltelefon abzuhören - so viel Crypto ist dann doch da - aber für staatliche Akteure oder deinen Mobilfunkanbieter ist das ganze &lt;a href=&quot;https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung&quot;&gt;kein Problem&lt;/a&gt;. Auch kommerzielle Anbieter von Internettelefonie wie Skype sind keine verlässliche Lösung. Allerdings kannst du mit der bereits erwähnten App Signal, oder z.B. auch mit Wire, Ende-zu-Ende-verschlüsselt über das Internet (Video-)telefonieren. Für Videochats, auch mit mehreren Teilnehmenden, ist &lt;a href=&quot;https://jitsi.org&quot;&gt;Jitsi&lt;/a&gt; eine Option, das ist aber &lt;a href=&quot;https://jitsi.org/blog/e2ee/&quot;&gt;noch nicht&lt;/a&gt; Ende-zu-Ende verschlüsselt.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;⚠ Im aktivistischen Kontext ist von Telefonaten über Festnetz genau so abzuraten wie von Telefonaten mit dem Handy ⚠&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;An dieser Stelle auch ein Hinweis zu alten Tastenhandys:&lt;br /&gt;
+Die Nutzung solcher Geräte kann durchaus Sinn machen.
+Bewegungsprofile können damit nur ungenau über Funkzellenabfragen erstellt werden und nicht so präzise wie bei einem Gerät mit GPS-Modul, es liegen weniger Daten auf dem Gerät vor und dadurch das keine Apps oder auch nur ein komplexes Betriebssystem vorhanden sind ist auch die Angriffsoberfläche deutlich geringer. Auf der anderen Seite ist es aber auch nicht möglich den Inhalt des Geräts oder die getätigte Kommunikation zu verschlüsseln. Selbst die ohnehin unsichere Verschlüsselung durch das Mobilfunknetz ist bei diesen Geräten oft noch schlechter. Wenn du dir über diese Punkte bewusst bist und andere Vorteile für dich überwiegen kannst du ein Tastenhandy benutzen, aber falle nicht auf den Trugschluss rein, das Gerät wäre grundsätzlich sicherer nur weil es keinen großen Touchscreen hat. 
+Zivile Handfunkgeräte können über Verschlüsselung verfügen, in der Praxis ist das aber meistens nicht der Fall.&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Telefonie Genau wie SMS verfügen Festnetz- und Handy-Gespräche nicht über Ende-zu-Ende-Verschlüsselung, die vor mithören der Gespräche schützt. Es mag für eine Privatperson nicht ohne weiteres möglich sein ein Mobiltelefon abzuhören - so viel Crypto ist dann doch da - aber für staatliche Akteure oder deinen Mobilfunkanbieter ist das ganze kein Problem. Auch kommerzielle Anbieter von Internettelefonie wie Skype sind keine verlässliche Lösung. Allerdings kannst du mit der bereits erwähnten App Signal, oder z.B. auch mit Wire, Ende-zu-Ende-verschlüsselt über das Internet (Video-)telefonieren. Für Videochats, auch mit mehreren Teilnehmenden, ist Jitsi eine Option, das ist aber noch nicht Ende-zu-Ende verschlüsselt.</summary></entry><entry><title type="html">Passwörter</title><link href="http://localhost:4000/passwort/" rel="alternate" type="text/html" title="Passwörter" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/130-passwort</id><content type="html" xml:base="http://localhost:4000/passwort/">&lt;h1 class=&quot;no_toc&quot; id=&quot;passwörter&quot;&gt;Passwörter&lt;/h1&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;
+    Inhalt
+  &lt;/summary&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#1-daten-entschlüsseln&quot; id=&quot;markdown-toc-1-daten-entschlüsseln&quot;&gt;1. Daten entschlüsseln&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2-anmeldung-bei-diensten&quot; id=&quot;markdown-toc-2-anmeldung-bei-diensten&quot;&gt;2. Anmeldung bei Diensten&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sonderfall-smartphones&quot; id=&quot;markdown-toc-sonderfall-smartphones&quot;&gt;Sonderfall Smartphones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;Ganz grob gesprochen werden Passwörter für 2 Zwecke verwendet, die aber auf den ersten Blick nicht für alle intuitiv unterscheidbar sind. Der Unterschied ist aber dennoch wichtig:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-daten-entschlüsseln&quot;&gt;1. Daten entschlüsseln&lt;/h2&gt;
+
+&lt;p&gt;Um ein verschlüsseltes Laufwerk oder eine verschlüsselte Datei zu entschlüsseln benötigst du ein Passwort. Damit eine Angreiferin (z.B. eine Ermittlungsbehörde oder ein Geheimdienst) dieses Passwort nicht durch schnelles ausprobieren aller möglichen Kombinationen erraten kann, muss es ausreichend lang sein. Gleichzeitig musst du diese Passwörter aber auswendig können, da es ein Fehler wäre, dieses auf einen Zettel zu notieren. Im Falle einer Durchsuchung hätten die Cops sonst leichtes Spiel beim Zugriff auf deine verschlüsselten Daten.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Also was machen?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Um ein solches sehr langes, aber dennoch vergleichsweise leicht zu merkendes Passwort zu generieren, hat sich ein Verfahren namens &lt;a href=&quot;https://de.wikipedia.org/wiki/Diceware&quot;&gt;Diceware&lt;/a&gt; etabliert. Du lässt dir &lt;a href=&quot;https://www.rempe.us/diceware/#german&quot;&gt;von einem Generator&lt;/a&gt; mindestens &lt;strong&gt;6&lt;/strong&gt; zufällige Wörter generieren, diese merkst Du Dir.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Wo anwenden?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Wie schon gesagt, dieses Verfahren nutzt du überall, wo es um Verschlüsselung von Daten geht. Das sind i.d.R. die Geräte-Verschlüsselung von deinem PC/Laptop, dein Passwortsafe, PGP-Key und verschlüsselte Container (z.B. von VeraCrypt). Die Anzahl der sogenannten Passphrasen, die du dir merken musst, sollte somit überschaubar sein.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/posts/password_strength.png&quot; alt=&quot;xkcd password strength&quot; title=&quot;https://xkcd.com/936/&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;Achtung! Mindestens 6 Wörter verwenden!&lt;/p&gt;
+
+&lt;h2 id=&quot;2-anmeldung-bei-diensten&quot;&gt;2. Anmeldung bei Diensten&lt;/h2&gt;
+
+&lt;p&gt;Bei der Anmeldung bei Diensten (z.B. Webseiten) geht es nicht darum etwas zu entschlüsseln, sondern darum gegenüber den Dienst zu beweisen, dass Mensch ein gewisser Account gehört. Dieser Nachweis ist dein Passwort. Wichtig bei diesen Passwörtern ist deren Länge (damit diese niemand erraten kann) und deren Einzigartigkeit. Denn leider werden Diensten immer wieder mal die Passwort-Datenbanken geklaut und dann veröffentlicht. Ist dein Passwort in solch einer Liste und du hast es mehrfach verwendet, kann eine Angreiferin sich in all deine Accounts einloggen. Ob ein Passwort von dir schon mal veröffentlicht wurde, kannst du z.B. mit &lt;a href=&quot;https://haveibeenpwned.com/&quot;&gt;haveibeenpwned.com&lt;/a&gt; feststellen.&lt;/p&gt;
+
+&lt;p&gt;Natürlich kann sich keine:r zig verschiedene, elendig lange Passwörter merken. Deswegen gibt es sogenannte “Passwort-Manager” in denen du deine Passwörter abspeichern kannst. Eine Anleitung kannst du im Abschnitt “&lt;a href=&quot;../passwort-manager/&quot;&gt;Passwort-Manager&lt;/a&gt;” finden.&lt;/p&gt;
+
+&lt;h2 id=&quot;sonderfall-smartphones&quot;&gt;Sonderfall Smartphones&lt;/h2&gt;
+
+&lt;p&gt;Mit dem Entsperrpasswort bzw. der PIN deines Smartphones ist es eine etwas unangenehme Situation. Eigentlich könnte man hier eine kurze PIN nehmen, denn das Gerät verhindert ein schnelles Durchprobieren aller Möglichkeiten in dem es sich, bei mehreren Fehlversuchen, in immer längeren Abständen sperrt.&lt;/p&gt;
+
+&lt;p&gt;Aber, eine kurze PIN ist…&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;durch &lt;a href=&quot;https://winfuture.de/news,57422.html&quot;&gt;Fingerabdrücke auf dem Display&lt;/a&gt; leicht zu rekonstruieren&lt;/li&gt;
+  &lt;li&gt;durch Überwachungskameras und andere Neugierige leicht ausspionierbar&lt;/li&gt;
+  &lt;li&gt;Anfällig gegen &lt;a href=&quot;https://www.cellebrite.com/de/&quot;&gt;Forensik-Geräte der Ermittlungsbehörden&lt;/a&gt;, denn diese können oftmals Lücken in den Geräten nutzen und viele PINs automatisiert durchprobieren&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Somit gilt:&lt;/em&gt; Gehe bei der Länge der PIN an deine absolute Schmerzgrenze der Praktibilität im Alltag! Besser wäre eine Passphrase, siehe oben.&lt;/p&gt;</content><author><name>ACAB</name><email>beschlagnahmt@riseup.net</email></author><category term="capter" /><summary type="html">Passwörter</summary></entry></feed>

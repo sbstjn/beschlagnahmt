@@ -1,21 +1,25 @@
-# [beschlagnahmt.org](https://beschlagnahmt.org) ![Jekyll site CI](https://github.com/beschlagnahmt-org/website/workflows/Jekyll%20site%20CI/badge.svg)
+# [beschlagnahmt.org](https://beschlagnahmt.org)
+
+![Jekyll site CI](https://github.com/beschlagnahmt-org/website/workflows/Jekyll%20site%20CI/badge.svg)
+
+## Inhalte
 
 Die Webseite wird mittels [Jekyll](https://jekyllrb.com/) generiert.
+
+- `_posts` enthält die einzelnen Themen
+- `_pages` enthält sonstige Unterseiten
 
 ## Lokale Entwicklung
 
 ```bash
 # Abhängigkeiten installieren
+
 $ > bundle install
 
-# Jekyll starten
+# Lokalen Webserver starten
+
 $ > bundle exec jekyll serve
 ```
-
-## Content
-
-- `_posts` enthält die einzelnen Themen
-- `_pages` enthält sonstige Unterseiten
 
 ## PDF Export
 
